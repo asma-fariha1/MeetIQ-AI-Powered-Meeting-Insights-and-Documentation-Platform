@@ -1,0 +1,16 @@
+# core configurations
+python-dotenv>=1.0.1
+
+# user interface
+gradio>=4.0.0
+
+# llm engine
+groq>=0.9.0
+
+# speech to text & text to speech
+openai-whisper>=20231117
+soundfile>=0.12.1
+elevenlabs>=1.0.0
+
+# document generation
+reportlab>=4.1.0
