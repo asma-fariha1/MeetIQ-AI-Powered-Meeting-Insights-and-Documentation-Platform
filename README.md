@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Meeting Assistant
 
 An AI-powered application to streamline meeting workflows by transcribing meeting audio, analyzing transcripts using Groq LLMs, generating voice-narrated summaries with ElevenLabs, and creating styled PDF reports.
@@ -55,3 +56,7 @@ AI-Meeting-Assistant/
    ```bash
    python app.py
    ```
+=======
+# MeetIQ-AI-Powered-Meeting-Insights-and-Documentation-Platform
+AI-powered platform that transforms meeting recordings into structured meeting insights, Minutes of Meeting (MoM), voice summaries, and downloadable PDF reports.
+>>>>>>> 58856216d8d96e646e97e62108519fa394e28c6e
