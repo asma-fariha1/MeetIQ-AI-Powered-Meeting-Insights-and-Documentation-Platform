@@ -99,10 +99,7 @@ cd MeetIQ-AI-Powered-Meeting-Insights-and-Documentation-Platform
 ```
 
 ### 2. Configure environment
-Copy `.env.example` to `.env` and add your API credentials (Groq, ElevenLabs):
-```bash
-cp .env.example .env
-```
+Create `.env` and add your API credentials (Groq, ElevenLabs)
 
 ### 3. Install dependencies
 ```bash
@@ -133,6 +130,7 @@ For anyone reviewing this repo — here's the skill set behind it:
 
 ## 📬 Let's Connect
 
-If you're a recruiter, hiring manager, or fellow builder and this caught your eye — I'd love to talk about the design decisions behind it, what I'd add next (calendar integrations, speaker diarization, multi-language support), or where I'm headed next.
+If you're a recruiter, hiring manager, or fellow developer and this project interests you, I'd be happy to discuss the ideas behind it, the design decisions I made, what I learned while building it, and how I plan to improve it in the future. I'd love to connect and hear your feedback.
+
 
 **Asma Fariha** — [GitHub](https://github.com/asma-fariha1)
